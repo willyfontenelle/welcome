@@ -7,7 +7,7 @@ I'm passionate about how design and technology come together, especially involvi
 </div>
 
 <a href="https://github.com/willyfontenelle" target="_blank">
-    <img src="/github.svg" style="padding-right: 8px;">
+    <img src="/github.svg" style="margin-right: 10px; display: inline-block;">
 </a>
 
 <a href="https://www.behance.net/willyfontenelle" target="_blank">
