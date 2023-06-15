@@ -1,13 +1,11 @@
 ## Willy Fontenelle
 I'm passionate about how design and technology come together, especially involving design systems in digital products.
 
-<div style="width: 40px">
-    <a href="https://www.linkedin.com/in/willyfontenelle" target="_blank">
-    <img src="/linkedin.svg" ></a>
-</div>
+<a href="https://www.linkedin.com/in/willyfontenelle" target="_blank">
+<img src="/linkedin.svg" ></a>
 
-<a href="https://github.com/willyfontenelle" target="_blank">
-    <img src="/github.svg" style="margin-right: 10px; display: inline-block;">
+<a href="https://github.com/willyfontenelle" target="_blank" style="margin-right: 10px; display: inline-block;">
+    <img src="/github.svg" >
 </a>
 
 <a href="https://www.behance.net/willyfontenelle" target="_blank">
