@@ -1,7 +1,7 @@
 ## Willy Fontenelle
 I'm passionate about how design and technology come together, especially involving design systems in digital products.
 
-<div style="display: flex; gap: 16px;">
+<div>
   <div>
     <a href="https://www.linkedin.com/in/willyfontenelle" target="_blank">
     <img src="/linkedin.svg" style="float: left; margin-right: 10px;"></a>
