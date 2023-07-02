@@ -5,8 +5,6 @@ My work has always been very close to the technology area, developing interfaces
 
 I'm currently studying front end web programming and ReactJS, in order to extend my contribution to the team and the project and ensure more autonomy in the technical documentation of a design system.
 
-# Follow me:
-
 Follow me:<p></p>
 <a href="https://www.linkedin.com/in/willyfontenelle" target="_blank">
 <img src="/linkedin.svg"></a>
