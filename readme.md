@@ -10,3 +10,6 @@ Follow me:<p></p>
 <img src="/behance.svg"></a>
 <a href="https://willyfontenelle.medium.com/" target="_blank">
 <img src="/medium.svg"></a>
+<a href="https://www.figma.com/@willyfontenelle" target="_blank">
+<img src="/figma.svg"></a>
+
